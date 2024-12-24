@@ -1,49 +1,152 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<a id="about"></a>
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://sysu-star.com/) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html).
 
-A data-driven personal website
+My research interests lie in **Robotics** and **Embodied AI**, with a particular focus on:  
+- Aerial Reconstruction/Exploration  
+- Vision-Language Navigation  
+
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **MPhil**, The Hong Kong University of Science and Technology (Guangzhou) 
+  *2024 – Present*  
 
-Getting started
+- **B.Eng**, School of Electronics and Information, Northwestern Polytechnical University
+  *2020 – 2024*  
+
+Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **STARLab, SUN YAT-SEN University**
+  - ***Research Assistant** Zhuhai, China*  *2023.07 – 2024.09*
+  - Worked on Autonomous Aerial Reconstruction and Multi-robot Systems in collaboration with **Prof. Boyu ZHOU**.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+---
 
-**Markdown generator**
+- **Northwestern Polytechnical University Football Robot Team**  
+  - ***Captain of the Humanoid Robot Team** Xi'an, China*  *2022.07 – 2023.07*
+  - Provided robot hardware/software technical support and achieved multiple national-level robotics awards.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Publications
+======
+<a id="publications"></a>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+(* stands for equal contribution, † stands for corresponding authors)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<html>
+  <head>
+        <style>
+            papertitle {
+                font-size: 16px;
+                font-family: 'Arial', sans-serif;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:90%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>SOAR: Simultaneous Exploration and Photographing with Heterogeneous UAVs for Fast Autonomous Reconstruction</strong>
+                </papertitle>
+                <br>
+                <strong>Mingjie Zhang*</strong>, Chen Feng*, Zengzhi Li, Guiyong Zheng, Yiming Luo, Zhu Wang, Jinni Zhou, Shaojie Shen, and Boyu Zhou†
+                <br>
+                <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024. <strong><font color="red">(Oral)</font></strong> </em><br>
+                <a href="https://arxiv.org/abs/2409.02738"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red"/></a>
+                <a href="https://github.com/SYSU-STAR/SOAR">
+                    <img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/SOAR" />
+                </a>
+                <a href='https://sysu-star.github.io/SOAR'><img src='https://img.shields.io/badge/Project_Page-SOAR-green' alt='Project Page'></a>
+                <a href="https://www.bilibili.com/video/BV1G1421Q79m"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+                <a href="https://www.bilibili.com/video/BV1wEyHYjEAq"><img alt="Bilibili" src="https://img.shields.io/badge/Talk-Bilibili-purple"/></a>
+                <br>
+                <!-- Add GIF here -->
+                <img src="images/pisa.gif" alt="SOAR Demonstration" style="width:75%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
+            </td>
+        </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>FC-Planner: A Skeleton-guided Planning Framework for Fast Aerial Coverage of Complex 3D Scenes</strong>
+                </papertitle>
+                <br>
+                Chen Feng, Haojia Li, <strong>Mingjie Zhang</strong>, Xinyi Chen, Boyu Zhou, and Shaojie Shen
+                <br>
+                <em>IEEE International Conference on Robotics and Automation (ICRA), 2024.<strong><font color="red">(Best Paper Award on UAV Finalists)</font></strong></em><br>
+                <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610621"> 
+                    <img src="https://img.shields.io/badge/IEEE-ICRA-b31b1b"> 
+                </a>
+                <a href='https://arxiv.org/pdf/2309.13882.pdf'>
+                    <img src='https://img.shields.io/badge/arXiv-2309.13882-red' alt='arxiv'>
+                </a>
+                <a href="https://github.com/HKUST-Aerial-Robotics/FC-Planner">
+                    <img alt="Code" src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/FC-Planner" />
+                </a>
+                <a href='https://hkust-aerial-robotics.github.io/FC-Planner/'>
+                    <img src='https://img.shields.io/badge/Project_Page-FC_Planner-green' alt='Project Page'>
+                </a>
+                <a href="https://www.youtube.com/watch?v=U-X4OddXI88">
+                    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Video-blue"/>
+                </a>
+                <a href="https://www.bilibili.com/video/BV1Fr421j7oC/?spm_id_from=333.999.0.0&vd_source=0af61c122e5e37c944053b57e313025a">
+                    <img alt="Talk" src="https://img.shields.io/badge/BiliBili-Talk-purple"/>
+                </a>
+                <br>
+                <!-- Add GIF here -->
+                <img src="images/fc.gif" alt="FC-Planner Demonstration" style="width:75%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
+            </td>
+        </tr>
+    </table>
+</html>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+Selected Projects
+======
+<a id="projects"></a>
+
+
+### Design and Development of Titan: A Humanoid Combat Robot  
+*July 2021 - July 2022*  
+- Designed the mechanical structure and developed circuit boards for robot control, along with a corresponding remote control.  
+- Developed control and communication APIs, and created a user-friendly PC-based motion editing visualization interface.  
+- Awarded the **National-level Outstanding Achievement in Innovation and Entrepreneurship for College Students** and successfully **selected for the 16th National College Students' Innovation and Entrepreneurship Annual Conference**.  
+
+---
+
+### The System of Multi-sensor Fusion Based Teleoperation of Robotic Manipulator  
+*September 2022 - May 2023*  
+- Utilized an eye tracker and RealSense to locate the position of the gripping target and employed Kinect to obtain human arm posture information for grip solution derivation.  
+- Utilized A* algorithm for path planning and polynomial interpolation for trajectory generation. Established a secure channel along the trajectory to facilitate manipulator control via force feedback during teleoperation.  
+- Real-world experiments demonstrated a **36% accuracy improvement** over traditional teleoperation methods.  
+
+---
+
+### UAV Swarm Formation Transformation  
+*July 2023 - November 2023*  
+- Enhanced the localization accuracy of UAV swarms through the fusion of UWB, IMU, and vision technologies.  
+- Utilized the Hungarian algorithm to optimize task allocation for drone formation transformation, minimizing energy consumption. Conducted real-world experimentation for validation.  
+
+
+Selected Honors
+======
+<a id="honors"></a>
+
+* **2024 IEEE International Conference on Robotics and Automation Best Paper Award on UAV Finalists**, 2024, IEEE Robotics & Automation Society
+* **National Scholarship**, 2022, 2023, Ministry of Education of P.R. China
+* **Outstanding Graduate**, 2024, Northwestern Polytechnical University
+* **Outstanding Student**, 2021, 2022, 2023, Northwestern Polytechnical University
+* **National Robot Championship Competition First Prize**, 2021, 2022, CAAI
+* **International Underwater Robot Competition First Prize**, 2021, Organizing Committee of IURC
+
