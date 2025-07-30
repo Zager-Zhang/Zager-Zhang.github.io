@@ -27,8 +27,8 @@ Education
 Experience
 ======
 
-- **STARLab, SUN YAT-SEN University**
-  - ***Research Assistant** Zhuhai, China*  *2023.07 – 2024.09*
+- **STAR Robotics Lab, Southern University of Science and Technology**
+  - ***Research Assistant** Shenzhen, China*  *2023.07 – Present*
   - Worked on Autonomous Aerial Reconstruction and Multi-robot Systems in collaboration with **Prof. Boyu ZHOU**.
 
 ---
@@ -44,22 +44,16 @@ Publications
 (* stands for equal contribution, † stands for corresponding authors)
 
 <html>
-  <head>
-        <style>
-            papertitle {
-                font-size: 18px;
-                font-family: 'Arial', sans-serif;
-                font-weight: bold;
-            }
-        </style>
-    </head>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:90%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/pisa.gif" alt="SOAR Demonstration" style="border-style: none" >
+            </td>
+            <td style="padding:10px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle><strong>SOAR: Simultaneous Exploration and Photographing with Heterogeneous UAVs for Fast Autonomous Reconstruction</strong>
                 </papertitle>
                 <br>
-                <strong>Mingjie Zhang*</strong>, Chen Feng*, Zengzhi Li, Guiyong Zheng, Yiming Luo, Zhu Wang, Jinni Zhou, Shaojie Shen, and Boyu Zhou†
+                <strong><u>Mingjie Zhang*</u></strong>, Chen Feng*, Zengzhi Li, Guiyong Zheng, Yiming Luo, Zhu Wang, Jinni Zhou, Shaojie Shen, and Boyu Zhou†
                 <br>
                 <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024. <strong><font color="red">(Oral)</font></strong> </em><br>
                 <a href="https://arxiv.org/abs/2409.02738"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red"/></a>
@@ -70,25 +64,23 @@ Publications
                 <a href="https://www.bilibili.com/video/BV1G1421Q79m"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
                 <a href="https://www.bilibili.com/video/BV1wEyHYjEAq"><img alt="Bilibili" src="https://img.shields.io/badge/Talk-Bilibili-purple"/></a>
                 <br>
-                <!-- Add GIF here -->
-                <img src="images/pisa.gif" alt="SOAR Demonstration" style="width:75%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
             </td>
         </tr>
     </table>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/fc.gif" alt="FC-Planner Demonstration" style="border-style: none" >
+            </td>
+            <td style="padding:10px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle><strong>FC-Planner: A Skeleton-guided Planning Framework for Fast Aerial Coverage of Complex 3D Scenes</strong>
                 </papertitle>
                 <br>
-                Chen Feng, Haojia Li, <strong>Mingjie Zhang</strong>, Xinyi Chen, Boyu Zhou, and Shaojie Shen
+                Chen Feng, Haojia Li, <strong><u>Mingjie Zhang</u></strong>, Xinyi Chen, Boyu Zhou, and Shaojie Shen
                 <br>
                 <em>IEEE International Conference on Robotics and Automation (ICRA), 2024.<strong><font color="red">(Best Paper Award on UAV Finalists)</font></strong></em><br>
-                <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610621"> 
-                    <img src="https://img.shields.io/badge/IEEE-ICRA-b31b1b"> 
-                </a>
                 <a href='https://arxiv.org/pdf/2309.13882.pdf'>
-                    <img src='https://img.shields.io/badge/arXiv-2309.13882-red' alt='arxiv'>
+                    <img src='https://img.shields.io/badge/arXiv-arXiv-red' alt='arxiv'>
                 </a>
                 <a href="https://github.com/HKUST-Aerial-Robotics/FC-Planner">
                     <img alt="Code" src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/FC-Planner" />
@@ -97,14 +89,12 @@ Publications
                     <img src='https://img.shields.io/badge/Project_Page-FC_Planner-green' alt='Project Page'>
                 </a>
                 <a href="https://www.youtube.com/watch?v=U-X4OddXI88">
-                    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Video-blue"/>
+                    <img alt="YouTube" src="https://img.shields.io/badge/Video-YouTube-blue"/>
                 </a>
                 <a href="https://www.bilibili.com/video/BV1Fr421j7oC/?spm_id_from=333.999.0.0&vd_source=0af61c122e5e37c944053b57e313025a">
-                    <img alt="Talk" src="https://img.shields.io/badge/BiliBili-Talk-purple"/>
+                    <img alt="Talk" src="https://img.shields.io/badge/Talk-BiliBili-purple"/>
                 </a>
                 <br>
-                <!-- Add GIF here -->
-                <img src="images/fc.gif" alt="FC-Planner Demonstration" style="width:75%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
             </td>
         </tr>
     </table>
@@ -124,7 +114,7 @@ Selected Projects
 
 
 <div style="text-align: center; margin-top: 10px;">
-    <img src="images/titan.jpg" alt="Titan Robot" style="width:75%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
+    <img src="../images/titan.jpg" alt="Titan Robot" style="width:75%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
 </div>
 
 ---
@@ -137,7 +127,7 @@ Selected Projects
 
 
 <div style="text-align: center; margin-top: 10px;">
-    <img src="images/teleoperation.gif" alt="Teleoperation System Visualization" style="width:75%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
+    <img src="../images/teleoperation.gif" alt="Teleoperation System Visualization" style="width:75%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
 </div>
 
 ---
@@ -148,9 +138,9 @@ Selected Projects
 - Utilized the Hungarian algorithm to optimize task allocation for drone formation transformation, minimizing energy consumption. Conducted real-world experimentation for validation.  
 
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
-    <img src="images/formation.gif" alt="UAV Swarm Formation Fly" style="width:45%; height:auto;">
-    <img src="images/transformation.gif" alt="UAV Swarm Formation Transformation" style="width:45%; height:auto;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px; margin-bottom:20px">
+    <img src="../images/formation.gif" alt="UAV Swarm Formation Fly" style="width:45%; height:auto;">
+    <img src="../images/transformation.gif" alt="UAV Swarm Formation Transformation" style="width:45%; height:auto;">
 </div>
 
 
