@@ -100,7 +100,8 @@ Publications
                 <br>
                 Chen Feng, Haojia Li, <strong><u>Mingjie Zhang</u></strong>, Xinyi Chen, Boyu Zhou, and Shaojie Shen
                 <br>
-                <em>IEEE International Conference on Robotics and Automation (ICRA), 2024.<strong><font color="red">(Best Paper Award on UAV Finalists)</font></strong></em><br>
+                <em>IEEE International Conference on Robotics and Automation (ICRA), 2024. 
+                <strong><font color="red">(Best Paper Award on UAV Finalists)</font></strong></em><br>
                 <a href='https://arxiv.org/pdf/2309.13882.pdf'>
                     <img src='https://img.shields.io/badge/arXiv-arXiv-red' alt='arxiv'>
                 </a>
