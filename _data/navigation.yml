@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /#publications
 
-  - title: "Projects"
-    url: /#projects
-
   - title: "Honors"
     url: /#honors
 
-  - title: "CV"
-    url: /files/MingjieZHANG_CV.pdf
+  - title: "Projects"
+    url: /projects/
+
+  # - title: "CV"
+  #   url: /files/MingjieZHANG_CV.pdf
 
   # - title: "Teaching"
   #   url: /teaching/    
