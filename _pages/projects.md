@@ -40,8 +40,10 @@ author_profile: true
     <img src="../images/transformation.gif" alt="UAV Swarm Formation Transformation" style="width:45%; height:auto;">
 </div>
 
-## UAV Autonomous Exploration in Complex Unknown Environments 
-*March 2023 - July 2023*  
+## Autonomous UAV Exploration of Unknown Mine Environments
+*March 2024 - August 2024*
+- Developed a robust autonomous UAV system capable of exploring large-scale underground mine environments (over 1 million $m^3$) under communication-denied conditions.
+-  Integrated frontier-based exploration with a K-TSP-based viewpoint planner to enable efficient and lightweight exploration; applied kinodynamic A* with B-spline smoothing for safe and smooth trajectory generation.
 
 
 <div style="text-align: center; margin-top: 10px;">
