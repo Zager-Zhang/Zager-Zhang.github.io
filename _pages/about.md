@@ -14,12 +14,14 @@ My research interests lie in **Robotics** and **Embodied AI**, with a particular
 - Autonomous Aerial Reconstruction/Exploration  
 - Vision-Language Navigation  
 
+Hobbies: Badminton🏸, Swimming🏊‍.
+
 
 Education
 ======
 
-- **MPhil**, The Hong Kong University of Science and Technology (Guangzhou), 
-  *2024 – Present*  
+- **MPhil Student**, The Hong Kong University of Science and Technology (Guangzhou), 
+  *2024 – Present* (will graduate in 2026)
 
 - **B.Eng**, School of Electronics and Information, Northwestern Polytechnical University,
   *2020 – 2024*  
