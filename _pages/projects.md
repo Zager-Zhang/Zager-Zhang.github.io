@@ -16,7 +16,6 @@ author_profile: true
     <img src="../images/titan.jpg" alt="Titan Robot" style="width:60%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
 </div>
 
----
 
 ## The System of Multi-sensor Fusion Based Teleoperation of Robotic Manipulator  
 *September 2022 - May 2023*  
@@ -29,7 +28,6 @@ author_profile: true
     <img src="../images/teleoperation.gif" alt="Teleoperation System Visualization" style="width:65%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
 </div>
 
----
 
 ## UAV Swarm Formation Transformation  
 *July 2023 - November 2023*  
@@ -40,4 +38,12 @@ author_profile: true
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
     <img src="../images/formation.gif" alt="UAV Swarm Formation Fly" style="width:45%; height:auto;">
     <img src="../images/transformation.gif" alt="UAV Swarm Formation Transformation" style="width:45%; height:auto;">
+</div>
+
+## UAV Autonomous Exploration in Complex Unknown Environments 
+*March 2023 - July 2023*  
+
+
+<div style="text-align: center; margin-top: 10px;">
+    <img src="../images/cave_exploration.gif" alt="Cave Exploration Visualization" style="width:70%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
 </div>

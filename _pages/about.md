@@ -47,7 +47,7 @@ Publications
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/ApexNav_pipeline.jpg" alt="ApexNav Demonstration" style="border-style: none" >
+              <img src="../images/apexnav_demo.gif" alt="ApexNav Demonstration" style="border-style: none" >
             </td>
             <td style="padding:10px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle><strong>ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion</strong>
@@ -101,6 +101,7 @@ Publications
                 Chen Feng, Haojia Li, <strong><u>Mingjie Zhang</u></strong>, Xinyi Chen, Boyu Zhou†, and Shaojie Shen
                 <br>
                 <em>IEEE International Conference on Robotics and Automation (ICRA), 2024. 
+                <br>
                 <strong><font color="red">(Best Paper Award on UAV Finalists)</font></strong></em><br>
                 <a href='https://arxiv.org/pdf/2309.13882.pdf'>
                     <img src='https://img.shields.io/badge/arXiv-arXiv-red' alt='arxiv'>
