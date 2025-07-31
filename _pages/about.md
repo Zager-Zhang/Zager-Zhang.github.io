@@ -156,7 +156,6 @@ Selected Honors
 * **Outstanding Graduate**, 2024, Northwestern Polytechnical University
 * **Outstanding Student**, 2021 & 2022 & 2023, Northwestern Polytechnical University
 * **Cooperative Aerial Robots Inspection Challenge 3rd Place**, 2023, IEEE CDC
-* **Yat-sen Challenge of Intelligent Cooperative Robots 1st Prize**, SYSU, 2023
+* **Yat-sen Challenge of Intelligent Cooperative Robots 1st Prize**, 2023, SYSU
 * **National Robot Championship Competition First Prize**, 2021 & 2022, CAAI
 * **International Underwater Robot Competition First Prize**, 2021, Organizing Committee of IURC
-
