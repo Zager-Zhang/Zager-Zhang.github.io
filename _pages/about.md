@@ -10,18 +10,22 @@ redirect_from:
 
 Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://sysu-star.com/) (周博宇) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html) (马骏).
 
-My research interests lie in **Robotics** and **Embodied AI**, with a particular focus on:  
-- Autonomous Aerial Reconstruction/Exploration  
+My research interests lie in **Robotics** and **Embodied AI**, related research and currently focusing on:  
 - Vision-Language Navigation  
+- Autonomous Aerial Reconstruction/Exploration  
 
-Hobbies: Badminton🏸, Swimming🏊‍.
+I also have a strong interest in Mobile Manipulation, VLA and Humanoid.
+
+**Hobbies**: Badminton🏸, Swimming🏊‍.
+
+**I am actively looking for the PhD opportunity in Fall 2026.**
 
 
 Education
 ======
 
 - **MPhil Student**, The Hong Kong University of Science and Technology (Guangzhou), 
-  *2024 – Present* (will graduate in 2026)
+  *2024 – 2026 (expected)*
 
 - **B.Eng**, School of Electronics and Information, Northwestern Polytechnical University,
   *2020 – 2024*  
