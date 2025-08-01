@@ -34,13 +34,13 @@ Experience
 ======
 
 - **STAR Robotics Lab, Southern University of Science and Technology**
-  - ***Research Assistant** Shenzhen, China*  *2023.07 – Present*
+  - ***Research Assistant** Shenzhen, China*  *2023.09 – Present*
   - Worked on Vision-Language Navigation and Autonomous Aerial Exploration/Reconstruction in collaboration with **Prof. Boyu ZHOU**.
 
 ---
 
 - **Northwestern Polytechnical University Football Robot Team**  
-  - ***Captain of the Humanoid Robot Team** Xi'an, China*  *2022.07 – 2023.07*
+  - ***Captain of the Humanoid Robot Team** Xi'an, China*  *2022.07 – 2023.09*
   - Provided robot hardware/software technical support and achieved multiple national-level robotics awards.
 
 Publications
