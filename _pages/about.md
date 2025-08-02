@@ -8,7 +8,7 @@ redirect_from:
 ---
 <a id="about"></a>
 
-Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://sysu-star.com/) (周博宇) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html) (马骏).
+Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://robotics-star.com/people) (周博宇) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html) (马骏).
 
 **I am actively looking for the PhD opportunity in Fall 2026.**
 
@@ -33,14 +33,14 @@ Education
 Experience
 ======
 
-- **STAR Robotics Lab, Southern University of Science and Technology**
-  - ***Research Assistant** Shenzhen, China*  *2023.09 – Present*
+- **[STAR Robotics Lab](https://robotics-star.com/people) , Southern University of Science and Technology**
+  - ***Research Assistant** Shenzhen, China*  *2023.08 – Present*
   - Worked on Vision-Language Navigation and Autonomous Aerial Exploration/Reconstruction in collaboration with **Prof. Boyu ZHOU**.
 
 ---
 
-- **Northwestern Polytechnical University Football Robot Team**  
-  - ***Captain of the Humanoid Robot Team** Xi'an, China*  *2022.07 – 2023.09*
+- **Football Robot Team, Northwestern Polytechnical University**  
+  - ***Captain of the Humanoid Robot Team** Xi'an, China*  *2022.07 – 2023.08*
   - Provided robot hardware/software technical support and achieved multiple national-level robotics awards.
 
 Publications

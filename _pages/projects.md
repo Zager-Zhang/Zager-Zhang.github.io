@@ -30,7 +30,7 @@ author_profile: true
 
 
 ## UAV Swarm Formation Transformation  
-*July 2023 - November 2023*  
+*August 2023 - November 2023*  
 - Enhanced the localization accuracy of UAV swarms through the fusion of UWB, IMU, and vision technologies.  
 - Utilized the Hungarian algorithm to optimize task allocation for drone formation transformation, minimizing energy consumption. Conducted real-world experimentation for validation.  
 
