@@ -110,7 +110,7 @@ Publications
                 <br>
                 <strong><font color="red">(Best Paper Award on UAV Finalists)</font></strong></em><br>
                 <a href='https://arxiv.org/pdf/2309.13882.pdf'>
-                    <img src='https://img.shields.io/badge/arXiv-arXiv-red' alt='arxiv'>
+                    <img src='https://img.shields.io/badge/Paper-arXiv-red' alt='arxiv'>
                 </a>
                 <a href="https://github.com/HKUST-Aerial-Robotics/FC-Planner">
                     <img alt="Code" src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/FC-Planner" />
