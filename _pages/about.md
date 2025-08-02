@@ -13,10 +13,10 @@ Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong Univers
 **I am actively looking for the PhD opportunity in Fall 2026.**
 
 My research interests lie in **Robotics** and **Embodied AI**, related research and currently focusing on:  
-- Vision-Language Navigation  
-- Autonomous Aerial Reconstruction/Exploration  
+- <span class="gray-bold">Vision-Language Navigation</span>  
+- <span class="gray-bold">Autonomous Aerial Reconstruction/Exploration </span>  
 
-I also have a strong interest in Mobile Manipulation, VLA and Humanoid.
+I also have a strong interest in <span class="gray-bold">Mobile Manipulation, VLA</span> and <span class="gray-bold">Humanoid</span>.
 
 **Hobbies**: Badminton🏸, Swimming🏊‍.
 
