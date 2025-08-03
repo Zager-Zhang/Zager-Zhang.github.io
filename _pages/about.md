@@ -24,7 +24,7 @@ I also have a strong interest in <span class="gray-bold">Mobile Manipulation, VL
 Education
 ======
 
-- **MPhil Student**, The Hong Kong University of Science and Technology (Guangzhou), 
+- **MPhil**, The Hong Kong University of Science and Technology (Guangzhou), 
   *2024 – 2026 (expected)*
 
 - **B.Eng**, School of Electronics and Information, Northwestern Polytechnical University,
