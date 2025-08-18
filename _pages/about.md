@@ -61,7 +61,7 @@ Publications
                 <br>
                 <strong><u>Mingjie Zhang</u></strong>, Yuheng Du, Chengkai Wu, Jinni Zhou, Zhenchao Qi, Jun Ma, Boyu Zhou†
                 <br>
-                <em>IEEE Robotics and Automation Letters (RAL), 2025 (underview). </em><br>
+                <em>IEEE Robotics and Automation Letters (RAL), 2025. </em><br>
                 <a href="https://arxiv.org/abs/2504.14478"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red"/></a>
                 <a href="https://github.com/Robotics-STAR-Lab/ApexNav">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/ApexNav" />
