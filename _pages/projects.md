@@ -13,7 +13,7 @@ author_profile: true
 
 
 <div style="text-align: center; margin-top: 10px;">
-    <img src="../images/titan.jpg" alt="Titan Robot" style="width:60%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
+    <img src="../images/projects/titan.jpg" alt="Titan Robot" style="width:60%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
 </div>
 
 
@@ -25,7 +25,7 @@ author_profile: true
 
 
 <div style="text-align: center; margin-top: 10px;">
-    <img src="../images/teleoperation.gif" alt="Teleoperation System Visualization" style="width:65%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
+    <img src="../images/projects/teleoperation.gif" alt="Teleoperation System Visualization" style="width:65%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
 </div>
 
 
@@ -36,8 +36,8 @@ author_profile: true
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
-    <img src="../images/formation.gif" alt="UAV Swarm Formation Fly" style="width:45%; height:auto;">
-    <img src="../images/transformation.gif" alt="UAV Swarm Formation Transformation" style="width:45%; height:auto;">
+    <img src="../images/projects/formation.gif" alt="UAV Swarm Formation Fly" style="width:45%; height:auto;">
+    <img src="../images/projects/transformation.gif" alt="UAV Swarm Formation Transformation" style="width:45%; height:auto;">
 </div>
 
 ## Autonomous UAV Exploration of Unknown Mine Environments
@@ -47,5 +47,5 @@ author_profile: true
 
 
 <div style="text-align: center; margin-top: 10px;">
-    <img src="../images/cave_exploration.gif" alt="Cave Exploration Visualization" style="width:70%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
+    <img src="../images/projects/cave_exploration.gif" alt="Cave Exploration Visualization" style="width:70%;height:auto;margin-top:10px;display:block;margin-left:auto;margin-right:auto;">
 </div>
