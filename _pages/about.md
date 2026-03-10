@@ -67,6 +67,7 @@ Publications
                 <a href="https://github.com/Robotics-STAR-Lab/C2-Explorer">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/C2-Explorer" />
                 </a>
+                <a href='https://robotics-star.com/C2-Explorer/'><img src='https://img.shields.io/badge/🔗_Project-Page-00C853?style=flat&logoColor=white' alt='Project Page'></a>
                 <a href='https://www.bilibili.com/video/BV1U5N3zgE4p/'><img src='https://img.shields.io/badge/Video-Bilibili-FB7299?logo=bilibili&logoColor=white' alt='Video'></a>
                 <br>
             </td>
