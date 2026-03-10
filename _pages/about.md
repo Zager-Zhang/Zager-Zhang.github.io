@@ -89,7 +89,7 @@ Publications
                 <a href="https://github.com/Robotics-STAR-Lab/ApexNav">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/ApexNav" />
                 </a>
-                <a href='https://robotics-star.com/ApexNav'><img src='https://img.shields.io/badge/🔗_Project-Page-00CED1?style=flat&logoColor=white' alt='Project Page'></a>
+                <a href='https://robotics-star.com/ApexNav'><img src='https://img.shields.io/badge/🔗_Project-Page-00C853?style=flat&logoColor=white' alt='Project Page'></a>
                 <a href="https://www.bilibili.com/video/BV1tJVgz4EJT"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-FB7299?logo=bilibili&logoColor=white"/></a>
                 <br>
             </td>
@@ -112,7 +112,7 @@ Publications
                 <a href="https://github.com/Robotics-STAR-Lab/SOAR">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/SOAR" />
                 </a>
-                <a href='https://robotics-star.com/SOAR/'><img src='https://img.shields.io/badge/🔗_Project-Page-00CED1?style=flat&logoColor=white' alt='Project Page'></a>
+                <a href='https://robotics-star.com/SOAR/'><img src='https://img.shields.io/badge/🔗_Project-Page-00C853?style=flat&logoColor=white' alt='Project Page'></a>
                 <a href="https://www.bilibili.com/video/BV1G1421Q79m"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-FB7299?logo=bilibili&logoColor=white"/></a>
                 <a href="https://www.bilibili.com/video/BV1wEyHYjEAq"><img alt="Bilibili" src="https://img.shields.io/badge/Talk-Bilibili-purple"/></a>
                 <br>
@@ -141,7 +141,7 @@ Publications
                     <img alt="Code" src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/FC-Planner" />
                 </a>
                 <a href='https://hkust-aerial-robotics.github.io/FC-Planner/'>
-                    <img src='https://img.shields.io/badge/🔗_Project-Page-00CED1?style=flat&logoColor=white' alt='Project Page'>
+                    <img src='https://img.shields.io/badge/🔗_Project-Page-00C853?style=flat&logoColor=white' alt='Project Page'>
                 </a>
                 <a href="https://www.youtube.com/watch?v=U-X4OddXI88">
                     <img alt="YouTube" src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
@@ -167,7 +167,7 @@ Publications
                 <em>IEEE Robotics Automation & Magazine (RAM), 2025. </em><br>
                 <a href="https://arxiv.org/abs/2501.06566"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
                 <a href="https://ieeexplore.ieee.org/document/11079769"><img alt="IEEE" src="https://img.shields.io/badge/Paper-IEEE-003C71?style=flat&logo=ieee&logoColor=white"/></a>
-                <a href='https://ntu-aris.github.io/caric/'><img src='https://img.shields.io/badge/🔗_Project-Page-00CED1?style=flat&logoColor=white' alt='Project Page'></a>
+                <a href='https://ntu-aris.github.io/caric/'><img src='https://img.shields.io/badge/🔗_Project-Page-00C853?style=flat&logoColor=white' alt='Project Page'></a>
                 <a href="https://www.youtube.com/watch?v=8u5hj2oZ-VY&t=66s"><img alt="Youtube" src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
                 <br>
             </td>
