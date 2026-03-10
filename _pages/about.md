@@ -14,6 +14,7 @@ Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong Univers
 
 My research interests lie in **Robotics** and **Embodied AI**, related research and currently focusing on:  
 - <span class="gray-bold">Vision-Language Navigation</span>  
+- <span class="gray-bold">Spatial Intelligence</span>  
 - <span class="gray-bold">Autonomous Robot Exploration/Reconstruction </span>  
 
 I also have a strong interest in <span class="gray-bold">Mobile Manipulation, VLA</span> and <span class="gray-bold">Humanoid</span>.
@@ -50,6 +51,27 @@ Publications
 
 <html>
     (* stands for equal contribution, † stands for corresponding authors)
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/c2_explorer_forest_demo.gif" alt="C²-Explorer Demonstration" style="border-style: none" >
+            </td>
+            <td style="padding:10px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>C²-Explorer: Contiguity-Driven Task Allocation with Connectivity-Aware Task Representation for Decentralized Multi-UAV Exploration</strong>
+                </papertitle>
+                <br>
+                Xinlu Yan*, <strong><u>Mingjie Zhang* (Co-first author)</u></strong>, Yuhao Fang, Yanke Sun, Jun Ma, Youmin Gong, Boyu Zhou†, Jie Mei†
+                <br>
+                <em>arXiv Preprint, 2026. </em><br>
+                <a href="https://arxiv.org/abs/2603.07699"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red"/></a>
+                <a href="https://github.com/Robotics-STAR-Lab/C2-Explorer">
+                    <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/C2-Explorer" />
+                </a>
+                <a href='https://www.bilibili.com/video/BV1U5N3zgE4p/'><img src='https://img.shields.io/badge/Video-Bilibili-blue' alt='Video'></a>
+                <br>
+            </td>
+        </tr>
+    </table>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
