@@ -63,11 +63,11 @@ Publications
                 Xinlu Yan*, <strong><u>Mingjie Zhang* (Co-first author)</u></strong>, Yuhao Fang, Yanke Sun, Jun Ma, Youmin Gong, Boyu Zhou†, Jie Mei†
                 <br>
                 <em>arXiv Preprint, 2026. </em><br>
-                <a href="https://arxiv.org/abs/2603.07699"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red"/></a>
+                <a href="https://arxiv.org/abs/2603.07699"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
                 <a href="https://github.com/Robotics-STAR-Lab/C2-Explorer">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/C2-Explorer" />
                 </a>
-                <a href='https://www.bilibili.com/video/BV1U5N3zgE4p/'><img src='https://img.shields.io/badge/Video-Bilibili-blue' alt='Video'></a>
+                <a href='https://www.bilibili.com/video/BV1U5N3zgE4p/'><img src='https://img.shields.io/badge/Video-Bilibili-FB7299?logo=bilibili&logoColor=white' alt='Video'></a>
                 <br>
             </td>
         </tr>
@@ -84,12 +84,13 @@ Publications
                 <strong><u>Mingjie Zhang</u></strong>, Yuheng Du, Chengkai Wu, Jinni Zhou, Zhenchao Qi, Jun Ma, Boyu Zhou†
                 <br>
                 <em>IEEE Robotics and Automation Letters (RAL), 2025. </em><br>
-                <a href="https://arxiv.org/abs/2504.14478"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red"/></a>
+                <a href="https://arxiv.org/abs/2504.14478"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
+                <a href="https://ieeexplore.ieee.org/document/11150727"><img alt="IEEE" src="https://img.shields.io/badge/Paper-IEEE-003C71?style=flat&logo=ieee&logoColor=white"/></a>
                 <a href="https://github.com/Robotics-STAR-Lab/ApexNav">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/ApexNav" />
                 </a>
-                <a href='https://robotics-star.com/ApexNav'><img src='https://img.shields.io/badge/Project_Page-ApexNav-green' alt='Project Page'></a>
-                <a href="https://www.bilibili.com/video/BV1tJVgz4EJT"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+                <a href='https://robotics-star.com/ApexNav'><img src='https://img.shields.io/badge/🔗_Project-Page-00CED1?style=flat&logoColor=white' alt='Project Page'></a>
+                <a href="https://www.bilibili.com/video/BV1tJVgz4EJT"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-FB7299?logo=bilibili&logoColor=white"/></a>
                 <br>
             </td>
         </tr>
@@ -106,12 +107,13 @@ Publications
                 <strong><u>Mingjie Zhang*</u></strong>, Chen Feng*, Zengzhi Li, Guiyong Zheng, Yiming Luo, Zhu Wang, Jinni Zhou, Shaojie Shen, and Boyu Zhou†
                 <br>
                 <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024. <strong><font color="red">(Oral)</font></strong> </em><br>
-                <a href="https://arxiv.org/abs/2409.02738"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red"/></a>
+                <a href="https://arxiv.org/abs/2409.02738"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
+                <a href="https://ieeexplore.ieee.org/document/10801474"><img alt="IEEE" src="https://img.shields.io/badge/Paper-IEEE-003C71?style=flat&logo=ieee&logoColor=white"/></a>
                 <a href="https://github.com/Robotics-STAR-Lab/SOAR">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/SOAR" />
                 </a>
-                <a href='https://robotics-star.com/SOAR/'><img src='https://img.shields.io/badge/Project_Page-SOAR-green' alt='Project Page'></a>
-                <a href="https://www.bilibili.com/video/BV1G1421Q79m"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+                <a href='https://robotics-star.com/SOAR/'><img src='https://img.shields.io/badge/🔗_Project-Page-00CED1?style=flat&logoColor=white' alt='Project Page'></a>
+                <a href="https://www.bilibili.com/video/BV1G1421Q79m"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-FB7299?logo=bilibili&logoColor=white"/></a>
                 <a href="https://www.bilibili.com/video/BV1wEyHYjEAq"><img alt="Bilibili" src="https://img.shields.io/badge/Talk-Bilibili-purple"/></a>
                 <br>
             </td>
@@ -132,16 +134,17 @@ Publications
                 <br>
                 <strong><font color="red">(Best Paper Award on UAV Finalists)</font></strong></em><br>
                 <a href='https://arxiv.org/pdf/2309.13882.pdf'>
-                    <img src='https://img.shields.io/badge/Paper-arXiv-red' alt='arxiv'>
+                    <img src='https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white' alt='arxiv'>
                 </a>
+                <a href="https://ieeexplore.ieee.org/document/10610621"><img alt="IEEE" src="https://img.shields.io/badge/Paper-IEEE-003C71?style=flat&logo=ieee&logoColor=white"/></a>
                 <a href="https://github.com/HKUST-Aerial-Robotics/FC-Planner">
                     <img alt="Code" src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/FC-Planner" />
                 </a>
                 <a href='https://hkust-aerial-robotics.github.io/FC-Planner/'>
-                    <img src='https://img.shields.io/badge/Project_Page-FC_Planner-green' alt='Project Page'>
+                    <img src='https://img.shields.io/badge/🔗_Project-Page-00CED1?style=flat&logoColor=white' alt='Project Page'>
                 </a>
                 <a href="https://www.youtube.com/watch?v=U-X4OddXI88">
-                    <img alt="YouTube" src="https://img.shields.io/badge/Video-YouTube-blue"/>
+                    <img alt="YouTube" src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
                 </a>
                 <a href="https://www.bilibili.com/video/BV1Fr421j7oC/?spm_id_from=333.999.0.0&vd_source=0af61c122e5e37c944053b57e313025a">
                     <img alt="Talk" src="https://img.shields.io/badge/Talk-BiliBili-purple"/>
@@ -162,9 +165,10 @@ Publications
                 Muqing Cao, Thien-Minh Nguyen, Shenghai Yuan, Andreas Anastasiou, Angelos Zacharia, Savvas Papaioannou, Panayiotis Kolios, Christos G Panayiotou, Marios M Polycarpou, Xinhang Xu, <strong><u>Mingjie Zhang</u></strong>, Fei Gao, Boyu Zhou, Ben M Chen, Lihua Xie
                 <br>
                 <em>IEEE Robotics Automation & Magazine (RAM), 2025. </em><br>
-                <a href="https://arxiv.org/abs/2501.06566"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red"/></a>
-                <a href='https://ntu-aris.github.io/caric/'><img src='https://img.shields.io/badge/Project_Page-CARIC-green' alt='Project Page'></a>
-                <a href="https://www.youtube.com/watch?v=8u5hj2oZ-VY&t=66s"><img alt="Youtube" src="https://img.shields.io/badge/Video-YouTube-blue"/></a>
+                <a href="https://arxiv.org/abs/2501.06566"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
+                <a href="https://ieeexplore.ieee.org/document/11079769"><img alt="IEEE" src="https://img.shields.io/badge/Paper-IEEE-003C71?style=flat&logo=ieee&logoColor=white"/></a>
+                <a href='https://ntu-aris.github.io/caric/'><img src='https://img.shields.io/badge/🔗_Project-Page-00CED1?style=flat&logoColor=white' alt='Project Page'></a>
+                <a href="https://www.youtube.com/watch?v=8u5hj2oZ-VY&t=66s"><img alt="Youtube" src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
                 <br>
             </td>
         </tr>

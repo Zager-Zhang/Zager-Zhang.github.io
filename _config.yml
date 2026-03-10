@@ -21,7 +21,7 @@ repository               : "Zager-Zhang/Zager-Zhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile/zmj.jpg"
+  avatar           : "profile/zmj.png"
   name             : "Mingjie ZHANG(张明杰)"
   pronouns         : # example: "she/her"  
   bio              : "Robotics"
