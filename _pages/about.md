@@ -76,6 +76,26 @@ Publications
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/publications/onfly.gif" alt="OnFly Demonstration" style="border-style: none" >
+            </td>
+            <td style="padding:10px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency</strong>
+                </papertitle>
+                <br>
+                Guiyong Zheng, Yueting Ban, <strong><u>Mingjie Zhang</u></strong>, Juepeng Zheng, Boyu Zhou†
+                <br>
+                <em>arXiv Preprint, 2026. </em><br>
+                <a href="https://github.com/Robotics-STAR-Lab/OnFly">
+                    <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/OnFly" />
+                </a>
+                <a href='https://robotics-star.com/OnFly/'><img src='https://img.shields.io/badge/Project-Page-4A90E2?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+                <br>
+            </td>
+        </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/publications/apexnav_demo.gif" alt="ApexNav Demonstration" style="border-style: none" >
             </td>
             <td style="padding:10px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
