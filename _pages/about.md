@@ -85,10 +85,12 @@ Publications
                 Guiyong Zheng, Yueting Ban, <strong><u>Mingjie Zhang</u></strong>, Juepeng Zheng, Boyu Zhou†
                 <br>
                 <em>arXiv Preprint, 2026. </em><br>
+                <a href="http://arxiv.org/abs/2603.10682"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
                 <a href="https://github.com/Robotics-STAR-Lab/OnFly">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/OnFly" />
                 </a>
                 <a href='https://robotics-star.com/OnFly/'><img src='https://img.shields.io/badge/Project-Page-4A90E2?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+                <a href="https://www.bilibili.com/video/BV1QpwczVEZt/"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-FB7299?logo=bilibili&logoColor=white"/></a>
                 <br>
             </td>
         </tr>
