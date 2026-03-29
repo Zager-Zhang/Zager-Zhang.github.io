@@ -8,18 +8,19 @@ redirect_from:
 ---
 <a id="about"></a>
 
-Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://robotics-star.com/people) (周博宇) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html) (马骏). I also work at [STAR Robotics Lab](https://robotics-star.com/people), Southern University of Science and Technology.
+Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Boyu ZHOU](https://robotics-star.com/people) (周博宇) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html) (马骏). I also work at [STAR Robotics Lab](https://robotics-star.com/people), Southern University of Science and Technology.
 
 <!-- **I am actively looking for the PhD opportunity in Fall 2026.** -->
 
-My research interests lie in **Robotics** and **Embodied AI**, related research and currently focusing on:  
+My research lies at the intersection of **Robotics** and **Embodied AI**.
+Current focus includes:
 - <span class="gray-bold">Vision-Language Navigation</span>  
 - <span class="gray-bold">Spatial Intelligence</span>  
-- <span class="gray-bold">Autonomous Robot Exploration/Reconstruction </span>  
+- <span class="gray-bold">Autonomous Robot Exploration/Reconstruction</span>  
 
-I also have a strong interest in <span class="gray-bold">Mobile Manipulation, VLA</span> and <span class="gray-bold">Humanoid</span>.
+I am also interested in <span class="gray-bold">Mobile Manipulation</span>, <span class="gray-bold">Vision-Language-Action (VLA)</span>, and <span class="gray-bold">Humanoid Robotics</span>.
 
-If you're interested in discussing research opportunities, collaborations, or related topics, feel free to reach out via email: [zagerzhang@gmail.com](mailto:zagerzhang@gmail.com).
+If you are interested in research opportunities or collaborations, feel free to reach out at [zagerzhang@gmail.com](mailto:zagerzhang@gmail.com).
 
 **Hobbies**: Badminton🏸, Swimming🏊‍.
 
