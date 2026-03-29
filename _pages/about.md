@@ -183,6 +183,14 @@ Publications
 </html>
 
 
+Service
+======
+<a id="service"></a>
+
+* **Conference Reviewer**: ICRA, IROS
+* **Journal Reviewer**: RA-L, T-RO
+
+
 
 Selected Honors
 ======

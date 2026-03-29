@@ -97,6 +97,37 @@
     color: #6f7b87;
     font-size: 0.85rem;
   }
+
+  a#publications ~ html td[style*="width:25%"] {
+    width: 28% !important;
+  }
+
+  a#publications ~ html td[style*="width:75%"] {
+    width: 72% !important;
+  }
+
+  img[src*="images/publications/"] {
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+    transform: scale(1);
+    transform-origin: center center;
+    border-radius: 10px;
+  }
+
+  td:hover > img[src*="images/publications/"] {
+    transform: scale(1.04);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    img[src*="images/publications/"] {
+      transition: none;
+    }
+
+    td:hover > img[src*="images/publications/"] {
+      transform: none;
+      box-shadow: none;
+    }
+  }
 </style>
 
 
