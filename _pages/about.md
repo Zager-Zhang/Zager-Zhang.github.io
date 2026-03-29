@@ -187,10 +187,16 @@ Service
 ======
 <a id="service"></a>
 
-* **Conference Reviewer**: ICRA, IROS
-* **Journal Reviewer**: RA-L, T-RO
-
-
+<ul class="service-list">
+    <li>
+        <span class="service-label">Conference Reviewer</span>
+        <span class="service-meta">ICRA, IROS</span>
+    </li>
+    <li>
+        <span class="service-label">Journal Reviewer</span>
+        <span class="service-meta">RA-L, T-RO</span>
+    </li>
+</ul>
 
 Selected Honors
 ======
