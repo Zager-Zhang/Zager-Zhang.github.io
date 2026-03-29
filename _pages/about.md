@@ -8,7 +8,7 @@ redirect_from:
 ---
 <a id="about"></a>
 
-Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://robotics-star.com/people) (周博宇) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html) (马骏).
+Hello! I'm Mingjie Zhang (张明杰), an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Boyu ZHOU](https://robotics-star.com/people) (周博宇) and [Prof. Jun MA](https://personal.hkust-gz.edu.cn/junma/people-page.html) (马骏). I also work at [STAR Robotics Lab](https://robotics-star.com/people), Southern University of Science and Technology.
 
 <!-- **I am actively looking for the PhD opportunity in Fall 2026.** -->
 
@@ -19,39 +19,22 @@ My research interests lie in **Robotics** and **Embodied AI**, related research 
 
 I also have a strong interest in <span class="gray-bold">Mobile Manipulation, VLA</span> and <span class="gray-bold">Humanoid</span>.
 
+If you're interested in discussing research opportunities, collaborations, or related topics, feel free to reach out via email: [zagerzhang@gmail.com](mailto:zagerzhang@gmail.com).
+
 **Hobbies**: Badminton🏸, Swimming🏊‍.
-
-
-Education
-======
-
-- **MPhil**, The Hong Kong University of Science and Technology (Guangzhou), Robotics and Autonomous Systems,
-  *2024 – 2026 (expected)*
-
-- **B.Eng**, Northwestern Polytechnical University, School of Electronics and Information,
-  *2020 – 2024*  
-
-Experience
-======
-
-- **[STAR Robotics Lab](https://robotics-star.com/people) , Southern University of Science and Technology**
-  - ***Research Assistant** Shenzhen, China*  *2023.08 – Present*
-  - Worked on Vision-Language Navigation and Autonomous Aerial Exploration/Reconstruction in collaboration with **Prof. Boyu ZHOU**.
-
----
-
-- **Football Robot Team, Northwestern Polytechnical University**  
-  - ***Captain of the Humanoid Robot Team** Xi'an, China*  *2022.07 – 2023.08*
-  - Provided robot hardware/software technical support and achieved multiple national-level robotics awards.
 
 Publications
 ======
 <a id="publications"></a>
 
+<div class="publication-note">
+    <span><strong>*</strong> equal contribution</span>
+    <span><strong>†</strong> corresponding author</span>
+</div>
+
 
 <html>
-    (* stands for equal contribution, † stands for corresponding authors)
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <table class="publication-highlight" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/publications/c2_explorer_forest_demo.gif" alt="C²-Explorer Demonstration" style="border-style: none" >
@@ -60,7 +43,7 @@ Publications
                 <papertitle><strong>C²-Explorer: Contiguity-Driven Task Allocation with Connectivity-Aware Task Representation for Decentralized Multi-UAV Exploration</strong>
                 </papertitle>
                 <br>
-                Xinlu Yan*, <strong><u>Mingjie Zhang* (Co-first author)</u></strong>, Yuhao Fang, Yanke Sun, Jun Ma, Youmin Gong, Boyu Zhou†, Jie Mei†
+                Xinlu Yan*, <strong><u>Mingjie Zhang*</u></strong>, Yuhao Fang, Yanke Sun, Jun Ma, Youmin Gong, Boyu Zhou†, Jie Mei†
                 <br>
                 <em>arXiv Preprint, 2026. </em><br>
                 <a href="https://arxiv.org/abs/2603.07699"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
@@ -73,7 +56,7 @@ Publications
             </td>
         </tr>
     </table>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <table class="publication-highlight" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/publications/onfly.gif" alt="OnFly Demonstration" style="border-style: none" >
@@ -118,7 +101,7 @@ Publications
             </td>
         </tr>
     </table>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <table class="publication-highlight" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/publications/pisa.gif" alt="SOAR Demonstration" style="border-style: none" >
@@ -204,11 +187,37 @@ Selected Honors
 ======
 <a id="honors"></a>
 
-* **IEEE ICRA Best Paper Award on UAV Finalists**, 2024, IEEE Robotics & Automation Society
-* **National Scholarship**, 2022 & 2023, Ministry of Education of P.R. China
-* **Outstanding Graduate**, 2024, Northwestern Polytechnical University
-* **Outstanding Student**, 2021 & 2022 & 2023, Northwestern Polytechnical University
-* **Cooperative Aerial Robots Inspection Challenge 3rd Place**, 2023, IEEE CDC
-* **Yat-sen Challenge of Intelligent Cooperative Robots 1st Prize**, 2023, SYSU
-* **National Robot Championship Competition First Prize**, 2021 & 2022, CAAI
-* **International Underwater Robot Competition First Prize**, 2021, Organizing Committee of IURC
+<ul class="selected-honors">
+    <li class="honor-featured">
+        <span class="honor-title">IEEE ICRA Best Paper Award on UAV Finalists</span>
+        <span class="honor-meta">2024 | IEEE Robotics & Automation Society</span>
+    </li>
+    <li class="honor-featured">
+        <span class="honor-title">National Scholarship</span>
+        <span class="honor-meta">2022 & 2023 | Ministry of Education of P.R. China</span>
+    </li>
+    <li>
+        <span class="honor-title">Outstanding Graduate</span>
+        <span class="honor-meta">2024 | Northwestern Polytechnical University</span>
+    </li>
+    <li>
+        <span class="honor-title">Outstanding Student</span>
+        <span class="honor-meta">2021, 2022 & 2023 | Northwestern Polytechnical University</span>
+    </li>
+    <li>
+        <span class="honor-title">Cooperative Aerial Robots Inspection Challenge 3rd Place</span>
+        <span class="honor-meta">2023 | IEEE Conference on Decision and Control (CDC)</span>
+    </li>
+    <li>
+        <span class="honor-title">Yat-sen Challenge of Intelligent Cooperative Robots 1st Prize</span>
+        <span class="honor-meta">2023 | Sun Yat-sen University</span>
+    </li>
+    <li>
+        <span class="honor-title">National Robot Championship Competition First Prize</span>
+        <span class="honor-meta">2021 & 2022 | CAAI</span>
+    </li>
+    <li>
+        <span class="honor-title">International Underwater Robot Competition First Prize</span>
+        <span class="honor-meta">2021 | Organizing Committee of IURC</span>
+    </li>
+</ul>
