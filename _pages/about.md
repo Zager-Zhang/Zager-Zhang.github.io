@@ -37,6 +37,7 @@ I am also interested in <span class="gray-bold">Mobile Manipulation</span>, <spa
         <a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i><span>Email</span></a>
         <a href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a>
         <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
+        <a href="https://space.bilibili.com/636020172?spm_id_from=333.1007.0.0"><img class="contact-icon" src="{{ '/images/icons/bilibili.svg' | relative_url }}" alt="" aria-hidden="true"><span>Bilibili</span></a>
     </div>
 </div>
 
