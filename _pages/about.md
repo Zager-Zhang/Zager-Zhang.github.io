@@ -24,8 +24,7 @@ If you are interested in research opportunities or collaborations, feel free to 
 
 **Hobbies**: Badminton🏸, Swimming🏊‍.
 
-Publications
-======
+<h2 class="about-section-title">Publications</h2>
 <a id="publications"></a>
 
 <div class="publication-note">
@@ -183,8 +182,7 @@ Publications
 </html>
 
 
-Service
-======
+<h2 class="about-section-title">Service</h2>
 <a id="service"></a>
 
 <ul class="service-list">
@@ -198,8 +196,7 @@ Service
     </li>
 </ul>
 
-Selected Honors
-======
+<h2 class="about-section-title">Selected Honors</h2>
 <a id="honors"></a>
 
 <ul class="selected-honors">
