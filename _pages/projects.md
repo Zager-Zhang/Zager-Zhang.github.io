@@ -2,7 +2,7 @@
 layout: single
 title: "Selected Projects"
 permalink: /projects/
-author_profile: false
+author_profile: true
 ---
 
 <div class="project-showcase">
