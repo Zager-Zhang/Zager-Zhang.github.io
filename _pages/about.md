@@ -24,11 +24,12 @@ redirect_from:
 </div>
 
 Current focus includes:
-- <span class="gray-bold">Vision-Language Navigation</span>  
+- <span class="gray-bold">Robot Navigation</span>  
 - <span class="gray-bold">Spatial Intelligence</span>  
-- <span class="gray-bold">Autonomous Robot Exploration/Reconstruction</span>  
+- <span class="gray-bold">Mobile Manipulation</span>  
+- <span class="gray-bold">Active Exploration/Reconstruction</span>  
 
-I am also interested in <span class="gray-bold">Mobile Manipulation</span>, <span class="gray-bold">Vision-Language-Action (VLA)</span>, and <span class="gray-bold">Humanoid Robotics</span>.
+I am also interested in <span class="gray-bold">Vision-Language-Action (VLA)</span>, <span class="gray-bold">Agentic Systems</span>, and <span class="gray-bold">Humanoid Robotics</span>.
 
 <div class="about-intro">
     <p class="about-intro-contact">If you are interested in research opportunities or collaborations, feel free to reach out at <a href="mailto:zagerzhang@gmail.com">zagerzhang@gmail.com</a> or <a href="mailto:mzhang472@connect.hkust-gz.edu.cn">mzhang472@connect.hkust-gz.edu.cn</a>.</p>
@@ -51,6 +52,24 @@ I am also interested in <span class="gray-bold">Mobile Manipulation</span>, <spa
 
 
 <div class="publication-list">
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/publications/continuous_mobile_manipulation.gif" alt="Continuous Mobile Manipulation Demonstration" style="border-style: none" >
+            </td>
+            <td style="padding:10px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle class="papertitle--compact"><strong>Synergizing Efficiency and Reliability for Continuous Mobile Manipulation</strong>
+                </papertitle>
+                <br>
+                Chengkai Wu, Ruilin Wang*, Yixin Zeng*, Jiayuan Wang, <strong><u>Mingjie Zhang</u></strong>, Guiyong Zheng, Qun Niu, Juepeng Zheng, Jun Ma, Boyu Zhou†
+                <br>
+                <em>arXiv Preprint, 2026. </em><br>
+                <a href="https://arxiv.org/abs/2604.05430"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
+                <a href="https://www.youtube.com/playlist?list=PLP8ODnrItLYElLIj5ccyav-XfCGXY0pJf"><img alt="YouTube" src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+                <br>
+            </td>
+        </tr>
+    </table>
     <table class="publication-highlight" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:10px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -62,7 +81,7 @@ I am also interested in <span class="gray-bold">Mobile Manipulation</span>, <spa
                 <br>
                 Xinlu Yan*, <strong><u>Mingjie Zhang*</u></strong>, Yuhao Fang, Yanke Sun, Jun Ma, Youmin Gong, Boyu Zhou†, Jie Mei†
                 <br>
-                <em>arXiv Preprint, 2026. </em><br>
+                <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026. </em><br>
                 <a href="https://arxiv.org/abs/2603.07699"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
                 <a href="https://github.com/Robotics-STAR-Lab/C2-Explorer">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/C2-Explorer" />
@@ -84,7 +103,7 @@ I am also interested in <span class="gray-bold">Mobile Manipulation</span>, <spa
                 <br>
                 Guiyong Zheng, Yueting Ban, <strong><u>Mingjie Zhang</u></strong>, Juepeng Zheng, Boyu Zhou†
                 <br>
-                <em>arXiv Preprint, 2026. </em><br>
+                <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026. </em><br>
                 <a href="http://arxiv.org/abs/2603.10682"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
                 <a href="https://github.com/Robotics-STAR-Lab/OnFly">
                     <img alt="Code" src="https://img.shields.io/github/stars/Robotics-STAR-Lab/OnFly" />
@@ -106,7 +125,8 @@ I am also interested in <span class="gray-bold">Mobile Manipulation</span>, <spa
                 <br>
                 <strong><u>Mingjie Zhang</u></strong>, Yuheng Du, Chengkai Wu, Jinni Zhou, Zhenchao Qi, Jun Ma, Boyu Zhou†
                 <br>
-                <em>IEEE Robotics and Automation Letters (RAL), 2025. </em><br>
+                <em>IEEE Robotics and Automation Letters (RAL), 2025. <br>
+                IEEE International Conference on Robotics and Automation (ICRA), 2026. </em><br>
                 <a href="https://arxiv.org/abs/2504.14478"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&logoColor=white"/></a>
                 <a href="https://ieeexplore.ieee.org/document/11150727"><img alt="IEEE" src="https://img.shields.io/badge/Paper-IEEE-003C71?style=flat&logo=ieee&logoColor=white"/></a>
                 <a href="https://github.com/Robotics-STAR-Lab/ApexNav">
@@ -209,7 +229,7 @@ I am also interested in <span class="gray-bold">Mobile Manipulation</span>, <spa
     </li>
     <li>
         <span class="service-label">Journal Reviewer</span>
-        <span class="service-meta">RA-L, T-RO</span>
+        <span class="service-meta">RA-L, T-RO, JFR</span>
     </li>
 </ul>
 
